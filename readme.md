@@ -25,6 +25,7 @@ Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 4. Create a virtual environment for the repository (run `virtualenv --python=python3.5 venv`)
 5. Run the Flask server by executing `venv/bin/python price-of-chair/src/run.py`.
 6. Whenever you want to check prices of items (**caution: can take a long time if you have a lot of items!**), run `venv/bin/python price-of-char/src/alert_updater.py`.
+enjoy.
 
 ![Home Screen](readme-files/home.png)
 
